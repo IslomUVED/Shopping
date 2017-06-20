@@ -12,7 +12,6 @@ class Bucket
     private $products;
     private $status;
     private $payment;
-    private $doc;
 
     /**
      * @return mixed
